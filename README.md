@@ -1,1 +1,1 @@
-# SpartaCodingClub
+# 스파르타코딩클럽_ 웹개발종합반
